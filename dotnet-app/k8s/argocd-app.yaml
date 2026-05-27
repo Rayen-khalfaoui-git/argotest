@@ -9,7 +9,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/YOUR_USER/YOUR_REPO.git   # ← update this
+    repoURL: https://github.com/Rayen-khalfaoui-git/argotest.git  #commit again
     targetRevision: HEAD
     path: k8s
 

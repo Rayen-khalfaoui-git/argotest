@@ -22,7 +22,7 @@ spec:
 
       containers:
         - name: dotnet-app
-          image: your-registry/dotnet-app:latest   # ← update this
+          image: rayenkh98/dotnet-app:latest 
           imagePullPolicy: Always
           ports:
             - containerPort: 8080
