@@ -22,7 +22,7 @@ spec:
 
       containers:
         - name: dotnet-app
-          image: rayenkh98/dotnet-app 
+          image: rayenkh98/dotnetapp 
           imagePullPolicy: Always
           ports:
             - containerPort: 8080
