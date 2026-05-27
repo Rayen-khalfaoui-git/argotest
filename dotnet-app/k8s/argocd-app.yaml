@@ -11,7 +11,7 @@ spec:
   source:
     repoURL: https://github.com/Rayen-khalfaoui-git/argotest.git  #commit again
     targetRevision: HEAD
-    path: k8s
+    path: dotnet-app/k8s
 
   destination:
     server: https://kubernetes.default.svc
